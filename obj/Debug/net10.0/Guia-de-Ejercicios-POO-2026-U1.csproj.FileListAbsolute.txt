@@ -1,0 +1,15 @@
+/Users/marlon/Documents/projects/Guia-de-Ejercicios-POO-2026-U1/bin/Debug/net10.0/Guia-de-Ejercicios-POO-2026-U1
+/Users/marlon/Documents/projects/Guia-de-Ejercicios-POO-2026-U1/bin/Debug/net10.0/Guia-de-Ejercicios-POO-2026-U1.deps.json
+/Users/marlon/Documents/projects/Guia-de-Ejercicios-POO-2026-U1/bin/Debug/net10.0/Guia-de-Ejercicios-POO-2026-U1.runtimeconfig.json
+/Users/marlon/Documents/projects/Guia-de-Ejercicios-POO-2026-U1/bin/Debug/net10.0/Guia-de-Ejercicios-POO-2026-U1.dll
+/Users/marlon/Documents/projects/Guia-de-Ejercicios-POO-2026-U1/bin/Debug/net10.0/Guia-de-Ejercicios-POO-2026-U1.pdb
+/Users/marlon/Documents/projects/Guia-de-Ejercicios-POO-2026-U1/obj/Debug/net10.0/Guia-de-Ejercicios-POO-2026-U1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marlon/Documents/projects/Guia-de-Ejercicios-POO-2026-U1/obj/Debug/net10.0/Guia-de-Ejercicios-POO-2026-U1.AssemblyInfoInputs.cache
+/Users/marlon/Documents/projects/Guia-de-Ejercicios-POO-2026-U1/obj/Debug/net10.0/Guia-de-Ejercicios-POO-2026-U1.AssemblyInfo.cs
+/Users/marlon/Documents/projects/Guia-de-Ejercicios-POO-2026-U1/obj/Debug/net10.0/Guia-de-Ejercicios-POO-2026-U1.csproj.CoreCompileInputs.cache
+/Users/marlon/Documents/projects/Guia-de-Ejercicios-POO-2026-U1/obj/Debug/net10.0/Guia-de-Ejercicios-POO-2026-U1.sourcelink.json
+/Users/marlon/Documents/projects/Guia-de-Ejercicios-POO-2026-U1/obj/Debug/net10.0/Guia-de-Ejercicios-POO-2026-U1.dll
+/Users/marlon/Documents/projects/Guia-de-Ejercicios-POO-2026-U1/obj/Debug/net10.0/refint/Guia-de-Ejercicios-POO-2026-U1.dll
+/Users/marlon/Documents/projects/Guia-de-Ejercicios-POO-2026-U1/obj/Debug/net10.0/Guia-de-Ejercicios-POO-2026-U1.pdb
+/Users/marlon/Documents/projects/Guia-de-Ejercicios-POO-2026-U1/obj/Debug/net10.0/Guia-de-Ejercicios-POO-2026-U1.genruntimeconfig.cache
+/Users/marlon/Documents/projects/Guia-de-Ejercicios-POO-2026-U1/obj/Debug/net10.0/ref/Guia-de-Ejercicios-POO-2026-U1.dll
