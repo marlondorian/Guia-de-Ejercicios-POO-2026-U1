@@ -1,4 +1,3 @@
-// Conversión de temperatura
 namespace Opciones.Bloque1
 {
     public class ConversionTemp

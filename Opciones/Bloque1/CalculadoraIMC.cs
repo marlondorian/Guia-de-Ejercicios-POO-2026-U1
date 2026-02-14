@@ -1,4 +1,3 @@
-// Calculadora de IMC
 namespace Opciones.Bloque1
 {
     public class CalculadoraIMC

@@ -14,9 +14,7 @@ namespace Opciones.Bloque1
             for (int i = 0; i < billetes.Length; i++)
             {
                 cantidadBilletes[i] = monto / billetes[i];
-                // Console.WriteLine($"{billetes[i]}: {monto} {cantidadBilletes[i]}");
                 monto %= billetes[i];
-                // Console.WriteLine($"{billetes[i]} {monto} {cantidadBilletes[i]}");
             }
 
             Console.WriteLine("Desglose de billetes:");
